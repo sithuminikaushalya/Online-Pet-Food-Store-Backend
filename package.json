@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "Veterinary Drugs Store",
   "main": "index.js",
-  "type":"module",
- 
+  "type": "module",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
-  }, 
+  },
   "author": "Gayasha Thilakarathna",
   "license": "ISC",
   "dependencies": {
